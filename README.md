@@ -90,5 +90,5 @@ If you're reading this you've already found our Github repository. If you have a
 
 ## Contributing
 
-We love to have your help to make php-webdriver better. See [CONTRIBUTING.md](CONTRIBUTING.md) for more information
-about contributing and developing php-webdriver.
+Ashar Javed Virk
+Asist: Mubin
