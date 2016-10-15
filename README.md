@@ -1,4 +1,4 @@
-php-webdriver – WebDriver bindings for PHP
+php-webdriver – WebDriver bindings for PHP[modified to use with our own domain.]
 ===========================================
 
 ## Description
